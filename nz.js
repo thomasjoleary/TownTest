@@ -1,4 +1,4 @@
-[
+const cities = [
   {
     "city": "Auckland", 
     "lat": "-36.8406", 
