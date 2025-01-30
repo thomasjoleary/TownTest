@@ -1,2 +1,2 @@
-# LeafletTesting
-Repository for testing and learning to use Leaflet JS Library
+# Town Test
+City and town guessing game built using JS
